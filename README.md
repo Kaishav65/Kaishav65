@@ -1,3 +1,4 @@
+![logo](https://github.com/Kaishav65/Kaishav65/blob/main/Dark%20Blue%20Abstract%20Canva%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Kaishav Basodiya</h1>
 <h3 align="center">A passionate Software Engineer & frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
