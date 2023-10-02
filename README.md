@@ -4,6 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaishav65&label=Profile%20views&color=0e75b6&style=flat" alt="kaishav65" /> </p>
 
+- 📖 Student of Indian Institute of Information Technology Vadodara
+
 - 🔭 I’m currently working on Internship Project **Internship-project**
 
 - 🌱 I’m currently learning **React Native**
